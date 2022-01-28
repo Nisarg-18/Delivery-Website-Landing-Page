@@ -1,1 +1,0 @@
-Open index.html file to view the webpage.
